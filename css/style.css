@@ -81,7 +81,7 @@ h1, h2, h3, h4, h5, h6{
 HEADER 
 ************/
 .header{
-    background: url('../img/geno.jpg') no-repeat fixed;
+    background: url('../img/geno.JPG') no-repeat fixed;
     background-size: cover;
 
     min-height: 650px;
